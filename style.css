@@ -1,6 +1,9 @@
-h1 {
-    background-color: aquamarine; color:black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+body {
+    background-image: url(background/GE_3.2.4.1.2_coast.jpg);
 }
-l2 {
-    color:red; font-size: xx-large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.Inicio { 
+color:aliceblue;
+background-color: rgba(0, 0, 0, 0.719);
+border: 3px solid white;
 }
+
