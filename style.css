@@ -1,26 +1,26 @@
 body {
-    background-image: url(background\ -\ Studystorm.jpg)
+   background-color: white;
 }
 
 h1 {
-    color: white;
+    color: black;
     font-size: 50px;
 }
 
 h2 {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.747);
+    color: black;
+    
     font-size: 30px;
 }
 
 h3 {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.747);
+    color:black;
+   
     font-size: 25px;
 }
 
 h4 {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.747);
+    color: black;
+    text-align: left;
     font-size: 40px
 }
