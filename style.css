@@ -22,14 +22,5 @@ h3 {
 h4 {
     color: black;
     text-align: left;
-    font-size: 30px
-}
-.buttonheader {
-    color: black;
-    background-color: yellow;
-    font-size: 20px;
-    padding: 5px 10px;
-    border-radius: 10px;
-    cursor: pointer;
-    transform: 0.5s;
+    font-size: 40px
 }
