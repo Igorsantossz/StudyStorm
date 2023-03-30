@@ -1,17 +1,39 @@
-body {
+.body {
    background-color: white;
-   font-family:'Rubik', sans-serif;
+   font-family: 'Rubik', sans-serif;
 }
-header{
-    background-color: gold;
-    width: 100%;
-    height: 30vh;
-    color: black;
+
+header {
+background-color: gold;
 }
+
 .inicio_h1 {
-    color: black;
+color: black;
+font-size: 50px;
+}
+
+h1 {
+    background-color: gold;
+    color:black;
+    font-variant:unset;
     font-size: 50px;
 }
-h1{
-    color: aqua;
+
+.inicio {
+    font-size: 30px;
+}
+
+.part2 {
+    font-size: 30px;
+}
+
+.buttonheader {
+    color: black;
+    background-color: gold;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-color: black;
+    cursor: pointer;
+    transition: 0.5s;
 }
